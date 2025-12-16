@@ -1,0 +1,2 @@
+Como Compilar o programa: 
+Abra o terminal e digite: cd (endereço de onde a pasta do programa está salva no computador) e pressione enter, a seguir digite: gcc main.c conta.c -o banco e pressione enter, então digite: .\banco e pressione enter, pronto, o programa estará rodando.
